@@ -1,4 +1,4 @@
-Validates that the SPF record on the supplied domain is syntatically correct and below the 10 lookup limit.
+This is a command-line/SSH Python script that validates that the SPF record on the supplied domain is syntatically correct and below the 10 lookup limit.
 ```
 Usage:
 spf-check [-h] domain
